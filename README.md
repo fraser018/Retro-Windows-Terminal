@@ -1,11 +1,10 @@
 # Retro Windows Terminal
+
 Using Windows Terminal combined with Oh My Zsh and Powerline10K to make this cool little retro look!
 
 ![opacity](/images/2020-04-10_17-22-19.png "opacity")
 
 ![no opacity](/images/2020-04-10_17-27-09.png "no opacity")
-
-
 
 If you already run zsh / oh my zsh then just replace the files from this repo for the ones on your system, backup first!
 Images that I use for a background are also included and Windows Terminal JSON settings are towards the bottom of this page.
@@ -17,7 +16,9 @@ These are basic instructions to get a similar look in your terminal; I use WSL2 
 ___
 
 ## WSL Software
+
 Install ZSH:
+
 ```
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 ```
@@ -41,6 +42,7 @@ Your terminal must be set up to use the same font too, for Windows Terminal chan
 ___
 
 ## WSL Settings
+
 Modify the file .zshrc usually located at ~/.zshrc and change the theme to:
 ```
 ZSH_THEME="powerlevel10k/powerlevel10k"
@@ -50,6 +52,7 @@ This should the run the configuration wizard on next load of the terminal. The f
 If the font's are installed correctly you can either continue to set up your own look or copy the files from this repo and replace your ones.
 Both files exist in the home dir of the installed linux os.
 ___
+
 ## Windows Terminal JSON Settings
 
 Here are some additional Terminal settings that you will need to match the setup I am using.
@@ -87,6 +90,7 @@ The "startingDirectory" key is to redirect to my linux home dir when I open a te
 
 Windows Terminal path to place images used for the background:
 ```
+
 %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState
 ```
 
