@@ -1,7 +1,7 @@
 # Retro Windows Terminal
 Using Windows Terminal combined with Oh My Zsh and Powerline10K to make this cool little retro look!
 
-![no opacity] (/images/2020-04-10_17-27-09.png "no opacity")
+![no opacity] (./images/2020-04-10_17-27-09.png "no opacity")
 
 
 
