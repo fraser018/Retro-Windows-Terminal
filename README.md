@@ -2,9 +2,11 @@
 
 Using Windows Terminal combined with Oh My Zsh and Powerline10K to make this cool little retro look!
 
+![no opacity](/images/2020-04-10_17-27-09.png "no opacity")
+
 ![opacity](/images/2020-04-10_17-22-19.png "opacity")
 
-![no opacity](/images/2020-04-10_17-27-09.png "no opacity")
+
 
 If you already run zsh / oh my zsh then just replace the files from this repo for the ones on your system, backup first!
 Images that I use for a background are also included and Windows Terminal JSON settings are towards the bottom of this page.
