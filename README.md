@@ -88,7 +88,7 @@ The "startingDirectory" key is to redirect to my linux home dir when I open a te
             "experimental.retroTerminalEffect": true
         },
 ```
-
+The last line is what turns on the CRT screen like text lines and can be easily disabled.
 
 Windows Terminal path to place images used for the background:
 ```
