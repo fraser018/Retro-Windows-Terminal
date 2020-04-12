@@ -27,7 +27,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
 Install Oh My ZSH:
 ```
-https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+https://github.com/ohmyzsh/ohmyzsh
 ```
 
 Install P10k theme for ZSH
