@@ -39,6 +39,10 @@ Install auto-color-ls (wil need color-ls which requires ruby)
 ```
 https://github.com/gretzky/auto-color-ls
 ```
+Had some trouble with the PATH env on linux, this command worked for me
+```
+ echo -n 'export PATH=$HOME/.gem/ruby/2.7.0/bin:$PATH' >> ~/.zshrc
+```
 ___
 Follow thier instructions to get fonts installed, these are vital to get the same look.
 I am using FiraCode Nerd Font (non mono).
