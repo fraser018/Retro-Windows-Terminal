@@ -35,7 +35,7 @@ Install P10k theme for ZSH
 https://github.com/romkatv/powerlevel10k
 ```
 
-Install auto-color-ls (wil need ruby)
+Install auto-color-ls (wil need color-ls which requires ruby)
 ```
 https://github.com/gretzky/auto-color-ls
 ```
