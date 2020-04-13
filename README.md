@@ -34,6 +34,11 @@ Install P10k theme for ZSH
 ```
 https://github.com/romkatv/powerlevel10k
 ```
+
+Install auto-color-ls (wil need ruby)
+```
+https://github.com/gretzky/auto-color-ls
+```
 ___
 Follow thier instructions to get fonts installed, these are vital to get the same look.
 I am using FiraCode Nerd Font (non mono).
