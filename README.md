@@ -105,5 +105,5 @@ Windows Terminal path to place images used for the background:
 %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState
 ```
 
-
+___
 Enjoy the little things like retro gaming looking terminals.
